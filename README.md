@@ -1,4 +1,4 @@
-# LBI [![codelang](https://img.shields.io/github/languages/top/yuukixdev/LBI)](https://github.com/yuukixdev/LBI/search?l=c)
+# Lua Bytecode Interpreter [![codelang](https://img.shields.io/github/languages/top/yuukixdev/LBI)](https://github.com/yuukixdev/LBI/search?l=c)
 Lua 5.1 Bytecode Interpreter
 Precompiled - Ready to run
 # Prerequisites
